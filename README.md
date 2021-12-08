@@ -22,52 +22,37 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
+## Assunto: NestJS | Back-end
+#### Experts Club - NestJS: Gerando uma arquitetura de CRUD
+<br>
+<p>O NestJS é um framework de backend para NodeJS que trabalha em cima de micro-frameworks como o Express/Fastify, podendo inclusive ter qualquer outro framework integrado. Além de aplicações REST, ele também funciona muito bem com websockets, microserviços, graphql etc.
+</p>
+<br>
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+### Overview
+<ul>
+  <li>Framework para Node.js</li>
+  <li>CLI poderosa</li>
+  <li>Trabalha em cima de frameworks HTTP como Express ou Fastify</li>
+  <li>Usa Typescript por padrão, mas também pode ser usado com Javascript</li>
+  <li>Combina OOP(Programação Orientada a Objetos), FP(Programação Funcional) e FRP(Programação funcional Reativa)</li>
+  <li>Arquitetura inspirada e muito semelhante com a do Angular 2+</li>
+  <li>Resolve diversos problemas que precisamos sempre resolver com o Express</li>
+  <li>Trabalha principalmente em cima de Controllers, Services e Modules</li>
+  <li>Facilita o uso de Middleware, Exception filters, Pipes, Guards e Interceptors</li>
+</ul>
 
-## Installation
+### Tópicos e etapas do Projeto
+<ul>
+  <li>Gerando os resources com a CLI do NestJS</li>  
+  <li>Criação do UsersService armazenando em memória</li>
+  <li>Criação e configuração das Entidades e DTO's</li>
+  <li>Criação dos arquivos de requisição, utilizei o insomnia</li>
+  <li>Testes</li>
+  <li>Validação de dados</li>
+  <li>Tratamento de erros</li>
+</ul>
 
-```bash
-$ npm install
-```
-
-## Running the app
-
-```bash
-# development
-$ npm run start
-
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
-```
-
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
+## Licença
 
 Nest is [MIT licensed](LICENSE).
